@@ -1,0 +1,3 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+,,,Yoshimi & Marek,,Sumida Ku,35.71707,139.82608,,11000,3,,,,,,,
+,,,Kei,,Kita Ku,35.73844,139.76917,,8336,3,,,,,,,
